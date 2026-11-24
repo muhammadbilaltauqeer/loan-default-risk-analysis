@@ -1,0 +1,3 @@
+loan_group,total_loans,average_loan_amount,minimum_loan_amount,maximum_loan_amount
+Non-Defaulted,455,22012.75,2000,49800
+Defaulted,146,22570.55,2400,49700
